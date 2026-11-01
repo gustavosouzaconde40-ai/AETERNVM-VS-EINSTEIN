@@ -40,3 +40,7 @@ kappa_vac = 5e-4
 | **TOTAL** | **8 / 50** | **47 / 50** |
 
 Ver texto completo em /01-ORIGEM e /02-PILARES.
+
+# /tests - Emuladores Mini - AETERNVM-VS-EINSTEIN
+
+4 mini-emuladores: test_Z0_constante, test_LHAASO, test_V0, test_REFUTACAO - Rodar: python test_*.py - Autor Gustavo Conde - Legado Antonella
